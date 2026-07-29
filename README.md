@@ -13,6 +13,22 @@
 </div>
 
 ---
+---
+
+## 📸 Authentic Repository Media & Screenshots Gallery
+
+<p align="center"><i>Showing 3 verified screenshot(s) and visual assets directly from the repository source tree:</i></p>
+
+<div align="center">
+
+<a href="rf_flag.jpg"><img src="rf_flag.jpg" width="48%" alt="rf flag"/></a> &nbsp; <a href="stonk.png"><img src="stonk.png" width="48%" alt="stonk"/></a>
+<br/>
+<a href="white_flag.png"><img src="white_flag.png" width="96%" alt="white flag"/></a>
+<br/>
+
+</div>
+
+------
 
 ## 📖 Executive Architectural Overview
 
