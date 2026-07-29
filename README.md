@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marko1olo/gigahrush/main/docs/pixel_banner.jpg" width="100%" alt="Timertia Banner"/>
+<img src="https://raw.githubusercontent.com/marko1olo/gigahrush/main/docs/banner_timertia.jpg" width="100%" alt="Timertia Banner"/>
 
 # 🤖 TIMERTIA — Telegram Maid Bot & Game World Engine
 
