@@ -108,33 +108,6 @@ Core initialization functions execute deterministically, establishing baseline s
 
 <img src="https://raw.githubusercontent.com/marko1olo/gigahrush/main/docs/banner_timertia.jpg" width="100%" alt="TIMERTIA — Telegram Maid Bot & Procedural World Engine Banner"/>
 
-# TIMERTIA — Telegram Maid Bot & Procedural World Engine
-
-[![License](https://img.shields.io/badge/License-True%20People's%20v2.0-red?style=for-the-badge)](LICENSE.md)
-[![Language](https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=for-the-badge)]()
-[![Code Quality](https://img.shields.io/badge/Code-Audited-blue?style=for-the-badge)]()
-
-> **Comprehensive technical documentation and deep codebase architecture for Jirnyak/Timertia.**
-
-[🎮 Run / Play](#) &nbsp;·&nbsp; [📖 Architecture](#system-architecture) &nbsp;·&nbsp; [🐛 Report Bug](../../issues) &nbsp;·&nbsp; [🤝 Contributing](#contributing)
-
-</div>
-
----
-
-## 📖 Executive Summary & Product Vision
-
-This repository represents a specialized codebase engineered to solve domain-specific challenges in software architecture, procedural simulation, real-time rendering, or algorithm design. The project prioritizes clean separation of concerns, high performance execution, and complete developer accessibility.
-
-Built under open-source and maintainer-friendly principles, the codebase provides structured entry points, modular interfaces, and deterministic execution paths. Every component has been designed to operate reliably without hidden dependencies or proprietary cloud locks.
-
-The technical vision emphasizes zero
-```
-
-The code snippet above illustrates entry-point signatures, structural type bounds, and validation checks enforced at subsystem boundaries.
-
----
-
 ## ⚡ Execution Pipeline & Algorithmic Complexity
 
 | Pipeline Stage | Operational Logic | Complexity | Memory Budget |
@@ -151,18 +124,6 @@ The code snippet above illustrates entry-point signatures, structural type bound
 To build and run this repository locally, verify that your environment satisfies system prerequisites (modern C++ compiler / Node.js 18+ / Python 3.10+ / Swift depending on project language).
 
 ```bash
-# Clone repository
-git clone https://github.com/Jirnyak/Timertia.git
-cd Timertia
-
-# Compile / Install / Execute
-# For C++: cmake -B build && cmake --build build
-# For Python: python main.py
-# For JS/TS: npm install && npm run dev
-```
-
----
-
 ## ⚙️ Configuration & Parameter Matrix
 
 | Config Parameter | Data Type | Default | Operational Impact |
@@ -174,10 +135,6 @@ cd Timertia
 ---
 
 ## 📜 Original Developer Documentation
-
-The section below contains 100% of the original developer documentation, specifications, and devlogs created for this repository:
-
----
 
 <div align="center">
 
