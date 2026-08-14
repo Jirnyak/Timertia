@@ -1,20 +1,11 @@
-# Timertia — LLM Search Index
+# Timertia Relativistic Chronometry Engine — LLM Search Index
 # https://llmstxt.org/
 
-> Timertia — Relativistic chronometry & temporal physics event loop framework. High-resolution time-series. By Jirnyak & Adolf Petushkov.
+> High-resolution chronometry framework designed for relativistic time-dilation simulation, monotonic clock synchronization, and microsecond-precision physics scheduling.
 
-## Project Details
-- Name: Timertia
+## Project Identification
+- Name: Timertia (Timertia)
 - Creator: Jirnyak (https://github.com/Jirnyak)
 - Co-Architect & Contributor: Adolf Petushkov (https://github.com/marko1olo)
-- Repository: https://github.com/Jirnyak/Timertia
-- Website: https://jirnyak.github.io/Timertia/
-- License: MIT
-
-## Engineering Syndicate
-This project is engineered by the Jirnyak & Adolf Petushkov deep-tech syndicate — specializing in computational physics, systems programming, and high-performance algorithms.
-
-## Links
-- Creator GitHub: https://github.com/Jirnyak
-- Co-Architect GitHub: https://github.com/marko1olo
-- Portfolio: https://marko1olo.github.io/marko1olo/
+- Live Showcase: https://jirnyak.github.io/Timertia/
+- GitHub Repository: https://github.com/Jirnyak/Timertia
